@@ -10,3 +10,6 @@ set2 = {2,3,4}
 print(set.difference(set2))
 print(set.intersection(set2))
 single_tuple= (1,)
+
+for l in list:
+    print(f"{l}")
